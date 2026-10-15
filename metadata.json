@@ -1,0 +1,8 @@
+{
+  "name": "Lost & Found Assistant – Smart AI Agent",
+  "description": "An intelligent AI campus assistant for reporting, searching, and matching lost and found belongings with explainable scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
